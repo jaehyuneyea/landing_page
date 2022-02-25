@@ -7,13 +7,9 @@ body {
   flex-direction: column;
 }
 
+
 .quote-section {
   background-color: #e5e7eb;
-}
-
-.signup {
-  background-color: #3882f6;
-  color: white;
 }
 
 ul {
@@ -25,6 +21,8 @@ ul {
 a {
   text-decoration: none;
   color: #e5e7eb;
+  font-size: 18px;
+  font-weight: 400;
 }
 
 .header {
@@ -33,9 +31,28 @@ a {
   flex: 1;
   justify-content: space-between;
   align-items: center;
+  color: #F9FAF8;
+  font-size: 24px;
+  font-weight: 800;
 }
 
 .container {
   display: flex;
-  
+  justify-content: center;
+}
+
+.hero-main {
+  flex-grow: 1;
+  max-width: 500px;
+
+}
+
+.signup {
+  background-color: #3882f6;
+  color: white;
+}
+
+img {
+  max-width: 100%;
+  width: 500px;
 }
