@@ -110,3 +110,28 @@ img {
   font-size: 18px;
   color: #1F2937;
 }
+
+.quote-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 1000px;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  padding: 128px;
+}
+
+.quote {
+  color: #1F2937;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.quote-name {
+  color: #1F2937;
+  font-size: 24px;
+  font-weight: bold;
+  align-self: flex-end;
+}
