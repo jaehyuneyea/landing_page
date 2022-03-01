@@ -34,7 +34,4 @@
   <p><i>What I did to fix it and what I learned from it</i></p>
   
   <p>I used align-self to align the quote name to the right, a feature that I first forgot about and initially tried to have a seperate flex property to deal with it instead. To fix the centering issue, I found online that setting the left and right margin of the container to auto seemed to fix the issue.</p></li>
-<<<<<<< HEAD
   </ul>
-=======
->>>>>>> f6b20799f8aa5cc0b112f79b2ea23fd779e40006
