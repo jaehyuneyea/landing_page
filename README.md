@@ -11,6 +11,7 @@
   <li>A centered info section containing an image-text pair that wrap upon the window size changing (with rounded borders!)</li>
   <li>A centered quote section that has a left aligned text followed by a right aligned text.</li>
   <li>A centered button banner that has a different background color from the section background with the banner containing flexbox text and button</li>
+  <li>A centered footer with padding</li>
 </ul>
 
 <h3>Some of the challenges I faced were:</h3>
