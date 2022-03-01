@@ -10,6 +10,7 @@
   <li>A centered hero section that includes a left section with text and a button, and the right section that includes an image</li>
   <li>A centered info section containing an image-text pair that wrap upon the window size changing (with rounded borders!)</li>
   <li>A centered quote section that has a left aligned text followed by a right aligned text.</li>
+  <li>A centered button banner that has a different background color from the section background with the banner containing flexbox text and button</li>
 </ul>
 
 <p>Some of the challenges I faced was:</p>
@@ -33,3 +34,4 @@
   <p>What I did to fix it and what I learned from it</p>
   
   <p>I used align-self to align the quote name to the right, a feature that I first forgot about and initially tried to have a seperate flex property to deal with it instead. To fix the centering issue, I found online that setting the left and right margin of the container to auto seemed to fix the issue.</p></li>
+  </ul>
