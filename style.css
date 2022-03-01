@@ -141,3 +141,35 @@ img {
   font-weight: bold;
   align-self: flex-end;
 }
+
+.button-section {
+  background-color: #F9FAF8;
+  padding: 64px 300px;
+}
+
+.button-banner {
+  display: flex;
+  background-color: #3882f6;
+  border-radius: 8px;
+  justify-content: space-around;
+  align-items: center;
+  padding: 64px 0px;
+}
+
+.button-header {
+  color: #F9FAF8;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.button-sub {
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.button-banner .signup {
+  border: 2px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
