@@ -17,7 +17,7 @@ body {
 ul {
   list-style: none;
   display: flex;
-  gap: 8px;
+  gap: 16px;
 }
 
 a {
@@ -36,6 +36,11 @@ a {
   color: #F9FAF8;
   font-size: 24px;
   font-weight: 800;
+}
+
+.logo {
+  width: 100px;
+  margin-top: -16px;
 }
 
 .container {
